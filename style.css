@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Darshika_Resume</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        /* Base styles */
+        body {
+            margin: 0;
+            font-family: 'Poppins', sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        header {
+            background-color: #004466;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+
+        header p {
+            font-size: 1.1rem;
+        }
+
+        header img {
+            border-radius: 50%;
+            width: 120px;
+            height: 120px;
+            object-fit: cover;
+            border: 4px solid #fff;
+            margin-top: 15px;
+        }
+
+        hr {
+            border: 1px solid #ddd;
+        }
+
+        main {
+            max-width: 1000px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+        }
+
+        section {
+            margin-bottom: 30px;
+        }
+
+        h2 {
+            color: #004466;
+            border-bottom: 2px solid #004466;
+            padding-bottom: 10px;
+            font-size: 1.5rem;
+            margin-bottom: 15px;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        li {
+            font-size: 1.1rem;
+            margin-bottom: 10px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+
+        table th, table td {
+            padding: 12px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+
+        table th {
+            background-color: #004466;
+            color: white;
+        }
+
+        a {
+            text-decoration: none;
+            color: #004466;
+        }
+
+        footer {
+            text-align: center;
+            padding: 15px;
+            background-color: #f4f4f9;
+            font-size: 1rem;
+            color: #333;
+        }
+
+        @media (max-width: 600px) {
+            header h1 {
+                font-size: 2rem;
+            }
+
+            header p {
+                font-size: 1rem;
+            }
+
+            header img {
+                width: 100px;
+                height: 100px;
+            }
+
+            section h2 {
+                font-size: 1.3rem;
+            }
+
+            table th, table td {
+                font-size: 0.9rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Darshika Gupta</h1>
+        <p>Email: darshikagupta11174@gmail.com <br>Phone No.6393377151</p>
+        <img src="./Darshika Gupta.jpeg" alt="Profile photo">
+    </header>
+    <main>
+        <section>
+            <h2>Profile:</h2>
+            <p>I’m Darshika Gupta, a diligent college student pursuing Bachelor of Business Administration. <br> I am fully focused on my studies and I also have a great dedication to prompt project completion and continual adaptation. <br> Team-oriented collaborator with reliability and focus on equitable task distribution through group projects and motivation to accomplish mutually held goals.</p>
+        </section>
+        <section>
+            <h2>Skills:</h2>
+            <ul>
+                <li>Multitasker</li>
+                <li>Active Listener</li>
+                <li>A Great Communicator</li>
+                <li>Friendly with a positive attitude</li>
+                <li>Analytical and Critical Thinker</li>
+                <li>Decision Maker</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Additional Skills:</h2>
+            <ul>
+                <li>Basic Knowledge of:</li>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>Java Script</li>
+                </ul>
+                <li>MS Office</li>
+                <li>Canva</li>
+                <li>Read and Write German Language</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Interests:</h2>
+            <ul>
+                <li>Public Speaking</li>
+                <li>Research Working</li>
+                <li>Business</li>
+                <li>Content Writing</li>
+                <li>Reading</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Educational Qualifications:</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>COURSE</th> 
+                        <th>YEAR</th> 
+                        <th>COLLEGE/INSTITUTION</th>
+                        <th>RESULT</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>BBA DBE</td>
+                        <td>2024-Present</td>
+                        <td><a href="https://g.co/kgs/XRqgvM9">Indian Institute Of Management, Banglore</a></td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td>BBA</td>
+                        <td>2023-Present</td>
+                        <td><a href="https://g.co/kgs/PaEnGC6">Chhatrapati Shahu Ji Maharaj University, Kanpur</a></td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td>CBSE(Class XII)</td>
+                        <td>2022-23</td>
+                        <td><a href="https://g.co/kgs/3Eo4Sdu">Mariampur Senior Secondary School, Kanpur</a></td>
+                        <td>75%</td>
+                    </tr>
+                    <tr>
+                        <td>CBSE(X)</td>
+                        <td>2020-21</td>
+                        <td><a href="https://g.co/kgs/3Eo4Sdu">Mariampur Senior Secondary School, Kanpur</a></td>
+                        <td>92%</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+        <section>
+            <h2>Projects:</h2>
+            <ul>
+                <li>Rs.250 Budget Business(Assignment)</li>
+                <li>Rs.0 Budget Business(Assignment)</li>
+                <p>Started a small business with Rs.250 & no investment for 4 hours as part of <a href="https://dbe.iimb.ac.in/">DBE</a> coursework.</p>
+            </ul>
+        </section>
+        <section>
+            <h2>School Responsibilities and Certifications:</h2>
+            <ul>
+                <li>Won the best conduct award.</li>
+                <li>Literary Activity Incharge in class XII.</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Extracurricular Activities:</h2>
+            <ul>
+                <li>Head of the School Debate Society.</li>
+                <li>Won various Chess competitions.</li>
+                <li>Also won various Poster Making, Drawing, and Creativity competitions during my school life.</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>Darshika Gupta | Resume | Created with ♥</p>
+    </footer>
+</body>
+</html>
